@@ -1,0 +1,27 @@
+{
+    "feature name": "Energy Ration in subband (0-630) HZ",
+    "value": {
+        "ads": {
+            "ads_0": 0.601113,
+            "ads_1": 0.789622
+        },
+        "cartoon": {
+            "cartoon_0": 0.367946,
+            "cartoon_1": 0.513925
+        },
+        "concert": {
+            "concert_0": 0.704825
+        },
+        "interview": {
+            "interview_0": 0.798894,
+            "interview_1": 0.563082
+        },
+        "movies": {
+            "movies_0": 0.987969,
+            "movies_1": 0.903609
+        },
+        "sport": {
+            "sport_0": 0.454291
+        }
+    }
+}

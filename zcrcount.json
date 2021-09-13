@@ -1,0 +1,27 @@
+{
+    "feature name": "zcr total count",
+    "value": {
+        "ads": {
+            "ads_0": 58266,
+            "ads_1": 35677
+        },
+        "cartoon": {
+            "cartoon_0": 80477,
+            "cartoon_1": 66723
+        },
+        "concert": {
+            "concert_0": 29932
+        },
+        "interview": {
+            "interview_0": 41964,
+            "interview_1": 59413
+        },
+        "movies": {
+            "movies_0": 8379,
+            "movies_1": 14019
+        },
+        "sport": {
+            "sport_0": 59560
+        }
+    }
+}
