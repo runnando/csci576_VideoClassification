@@ -1,0 +1,47 @@
+{
+    "feature name": "zcr total count",
+    "value": {
+        "ads": {
+            "ads_0": 106909,
+            "ads_1": 58008,
+            "ads_2": 54347,
+            "ads_3": 49602
+        },
+        "cartoon": {
+            "cartoon_0": 43353,
+            "cartoon_1": 52573,
+            "cartoon_2": 33615,
+            "cartoon_3": 44709,
+            "cartoon_4": 22932
+        },
+        "concerts": {
+            "concerts_0": 22520,
+            "concerts_1": 19891,
+            "concerts_2": 29642,
+            "concerts_3": 23863
+        },
+        "interview": {
+            "interview_0": 58671,
+            "interview_1": 60587,
+            "interview_2": 29467,
+            "interview_3": 46462,
+            "interview_4": 44643,
+            "interview_5": 21787
+        },
+        "movies": {
+            "movies_0": 45831,
+            "movies_1": 48892,
+            "movies_2": 25937,
+            "movies_3": 25811,
+            "movies_4": 41238
+        },
+        "sport": {
+            "sport_0": 52158,
+            "sport_1": 52103,
+            "sport_2": 68659,
+            "sport_3": 52028,
+            "sport_4": 59899,
+            "sport_5": 55401
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "feature name": "Energy Ration in subband (4400-22000) HZ",
+    "value": {
+        "ads": {
+            "ads_0": 0.13127,
+            "ads_1": 0.071831,
+            "ads_2": 0.081181,
+            "ads_3": 0.023163
+        },
+        "cartoon": {
+            "cartoon_0": 0.030657,
+            "cartoon_1": 0.040274,
+            "cartoon_2": 0.001551,
+            "cartoon_3": 0.022165,
+            "cartoon_4": 0.000393
+        },
+        "concerts": {
+            "concerts_0": 0.000413,
+            "concerts_1": 8.2e-05,
+            "concerts_2": 0.008273,
+            "concerts_3": 6.9e-05
+        },
+        "interview": {
+            "interview_0": 0.056266,
+            "interview_1": 0.089074,
+            "interview_2": 0.012131,
+            "interview_3": 0.04882,
+            "interview_4": 0.053563,
+            "interview_5": 0.013195
+        },
+        "movies": {
+            "movies_0": 0.013165,
+            "movies_1": 0.040754,
+            "movies_2": 0.009995,
+            "movies_3": 0.012072,
+            "movies_4": 0.045834
+        },
+        "sport": {
+            "sport_0": 0.030119,
+            "sport_1": 0.025889,
+            "sport_2": 0.024722,
+            "sport_3": 0.039498,
+            "sport_4": 0.017797,
+            "sport_5": 0.025357
+        }
+    }
+}
